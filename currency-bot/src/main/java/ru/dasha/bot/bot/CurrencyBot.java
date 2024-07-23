@@ -1,4 +1,4 @@
-package ru.dasha.bot;
+package ru.dasha.bot.bot;
 
 import java.time.LocalDate;
 
